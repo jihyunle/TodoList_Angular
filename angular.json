@@ -23,6 +23,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
+//            style injection from styles.css
             "styles": [
               "src/styles.css"
             ],
